@@ -1,4 +1,4 @@
-To Launch:
+To Launch :
 1. Download project
 2. extract .zip
 3. go in Package/Windows
